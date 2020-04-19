@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heart.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pict.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\pict.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_polaroid.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\polaroid.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_beatles.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\beatles.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_polaroidi.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\polaroidi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_news_detail.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\layout\\activity_news_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_send.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vangog.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\vangog.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logoty.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\logoty.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rock.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\rock.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loglog.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\loglog.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_heart.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\ic_heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dots.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\dots.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pictu.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\pictu.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pi.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\pi.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_instlogo.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\instlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_bn.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\menu\\menu_bn.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logot.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\logot.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_visitka.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\visitka.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loglogl.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\loglogl.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_acdc.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\acdc.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ima.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\ima.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hearted.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\hearted.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fragment_like.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\layout\\fragment_fragment_like.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logoo.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\logoo.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_news.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\layout\\item_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kartina.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\kartina.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imag.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\imag.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homeblack.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\homeblack.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_im.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\im.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_page.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\layout\\fragment_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_log.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\log.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_comment.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\comment.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\pic.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pictur.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\pictur.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logotype.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\logotype.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heartblack.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\heartblack.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_save.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logotyp.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\logotyp.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_peizaz.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\peizaz.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nogti.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\nogti.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picture.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\picture.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_youtube.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\youtube.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loo.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\drawable\\loo.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\HW4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]
