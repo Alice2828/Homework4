@@ -14,9 +14,7 @@ import com.bumptech.glide.Glide
 
 class NewsListAdapter(
     private var newsList: ArrayList<News>?,
-    private var listener: ItemClickListener,
-    private var fragmentButtonListener: FragmentButtonListener,
-    private var fragmentLikeListener: FragmentLikeListener?
+    private var listener: ItemClickListener
 ) : RecyclerView.Adapter<NewsListAdapter.NewsViewHolder>() {
 
     @SuppressLint("InflateParams")
@@ -49,11 +47,9 @@ class NewsListAdapter(
 
             if (!news.hearted) {
                 holder.likeBtn.setImageResource(R.drawable.hearted)
-                fragmentButtonListener.myClick(news, 1)
                 news.hearted = true
             } else {
                 holder.likeBtn.setImageResource(R.drawable.heart)
-                fragmentLikeListener!!.removeItemLike(news)
                 news.hearted = false
             }
 
@@ -90,9 +86,6 @@ class NewsListAdapter(
         fun itemClick(position: Int, item: News?)
     }
 
-    interface FragmentLikeListener {
-        fun removeItemLike(news: News?)
-    }
 
     override fun getItemViewType(position: Int): Int {
         return position
@@ -105,9 +98,5 @@ class NewsListAdapter(
         Singleton.newsList[n] = news
         newsList?.set(n, news)
         this.notifyItemChanged(n)
-    }
-
-    interface FragmentButtonListener {
-        fun myClick(news: News?, option: Int)
     }
 }

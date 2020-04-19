@@ -13,8 +13,6 @@ class PageFragment : Fragment() {
     private var recyclerView: RecyclerView? = null
     private var adapter: NewsListAdapter? = null
     private var listener: NewsListAdapter.ItemClickListener? = null
-    private var fragmentButtonListener: NewsListAdapter.FragmentButtonListener? = null
-    private var fragmentLikeListener: NewsListAdapter.FragmentLikeListener? = null
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -33,30 +31,13 @@ class PageFragment : Fragment() {
                 startActivity(intent)
             }
         }
-        fragmentButtonListener = object : NewsListAdapter.FragmentButtonListener {
-            override fun myClick(news: News?, option: Int) {
-                (activity as MainActivity?)!!.myClick(news, option)
-            }
-        }
-        fragmentLikeListener = object : NewsListAdapter.FragmentLikeListener {
-            override fun removeItemLike(news: News?) {
-                (activity as MainActivity?)!!.removeItemLike(news)
-            }
-        }
         adapter =
             NewsListAdapter(
                 Singleton.newsList,
-                listener as NewsListAdapter.ItemClickListener,
-                fragmentButtonListener as NewsListAdapter.FragmentButtonListener,
-                fragmentLikeListener
+                listener as NewsListAdapter.ItemClickListener
             )
         recyclerView?.adapter = adapter
         return rootView
-    }
-
-
-    fun removeLike(news: News?) {
-        adapter!!.removeLike(news!!)
     }
 
     private fun bindView(rootView: View) {
