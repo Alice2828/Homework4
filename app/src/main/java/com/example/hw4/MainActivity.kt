@@ -1,22 +1,20 @@
 package com.example.hw4
 
 import android.os.Bundle
-import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
 import androidx.fragment.app.Fragment
-import androidx.viewpager.widget.ViewPager.OnPageChangeListener
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import java.util.*
 
 class MainActivity : AppCompatActivity(), NewsListAdapter.FragmentButtonListener,
     LikedListAdapter.FragmentLikeListener {
-    var pager: LockableViewPager? = null
+    private var pager: LockableViewPager? = null
     private var toolbar: Toolbar? = null
     private var bottomNavigationView: BottomNavigationView? = null
-    var list: ArrayList<Fragment> = ArrayList()
-    var pagefragment = PageFragment()
-    var fragment = FragmentLike()
+    private var list: ArrayList<Fragment> = ArrayList()
+    private var pagefragment = PageFragment()
+    private var fragment = FragmentLike()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -28,15 +26,15 @@ class MainActivity : AppCompatActivity(), NewsListAdapter.FragmentButtonListener
         botNav()
     }
 
-    fun bindViews() {
+    private fun bindViews() {
         toolbar = findViewById(R.id.toolbar) //toolbar
-        setSupportActionBar(toolbar);
+        setSupportActionBar(toolbar)
         pager = findViewById(R.id.pager) //find pager
         bottomNavigationView =
             findViewById(R.id.bottom_navigation) //bottomnavigation
     }
 
-    fun inits() {
+    private fun inits() {
         list.add(pagefragment) //adding fragments to list
         list.add(fragment)
         pager?.setSwipable(false)
@@ -46,14 +44,14 @@ class MainActivity : AppCompatActivity(), NewsListAdapter.FragmentButtonListener
 
     }
 
-    fun botNav() {
+    private fun botNav() {
         bottomNavigationView?.setOnNavigationItemSelectedListener { item ->
             when (item.itemId) {
                 R.id.navigation_home -> {
                     pager?.setCurrentItem(0, false)
-                    bottomNavigationView?.getMenu()?.findItem(R.id.navigation_home)
+                    bottomNavigationView?.menu?.findItem(R.id.navigation_home)
                         ?.setIcon(R.drawable.ic_home)
-                    bottomNavigationView?.getMenu()?.findItem(R.id.navigation_likes)
+                    bottomNavigationView?.menu?.findItem(R.id.navigation_likes)
                         ?.setIcon(R.drawable.ic_heart)
                 }
                 R.id.navigation_likes -> {

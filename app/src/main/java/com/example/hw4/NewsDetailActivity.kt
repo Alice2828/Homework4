@@ -1,13 +1,10 @@
 package com.example.hw4
 
 import android.os.Bundle
-import android.os.Parcelable
 import android.text.Html
-import android.view.View
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 import java.lang.String
@@ -31,7 +28,7 @@ class NewsDetailActivity : AppCompatActivity() {
         buttons()
     }
 
-    fun intents() {
+    private fun intents() {
         news = intent.getSerializableExtra("news") as News
         Glide.with(this).load(news.image).into(imageViewIntentResult as ImageView)
         Glide.with(this).load(news.logo).into(logo as ImageView)
@@ -55,8 +52,8 @@ class NewsDetailActivity : AppCompatActivity() {
     }
 
     private fun buttons() {
-        backBtn?.setOnClickListener(View.OnClickListener { onBackPressed() })
-        if (Singleton.newsList.get(Singleton.newsList.indexOf(news)).hearted)
+        backBtn?.setOnClickListener( { onBackPressed() })
+        if (Singleton.newsList[Singleton.newsList.indexOf(news)].hearted)
             likeBtn?.setImageResource(R.drawable.hearted)
         else likeBtn?.setImageResource(R.drawable.heart)
 

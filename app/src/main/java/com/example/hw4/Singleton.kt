@@ -1,8 +1,9 @@
 package com.example.hw4
 
-class Singleton() {
+class Singleton {
     companion object Factory {
         lateinit var newsList: ArrayList<News>
+
         @Volatile
         private var INSTANCE: Singleton? = null
 
@@ -195,7 +196,7 @@ class Singleton() {
                 )
                 items.add(news)
             }
-            newsList=items
+            newsList = items
             return items
         }
     }

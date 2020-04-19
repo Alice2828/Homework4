@@ -13,10 +13,10 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 
 class NewsListAdapter(
-    var newsList: ArrayList<News>?,
-    var listener: ItemClickListener,
-    var fragmentButtonListener: FragmentButtonListener,
-    var fragmentLikeListener: FragmentLikeListener?
+    private var newsList: ArrayList<News>?,
+    private var listener: ItemClickListener,
+    private var fragmentButtonListener: FragmentButtonListener,
+    private var fragmentLikeListener: FragmentLikeListener?
 ) : RecyclerView.Adapter<NewsListAdapter.NewsViewHolder>() {
 
     @SuppressLint("InflateParams")
@@ -33,7 +33,7 @@ class NewsListAdapter(
 
     override fun onBindViewHolder(holder: NewsViewHolder, position: Int) {
         val news = newsList!![getItemViewType(position)]
-        holder.author.setText(news.author)
+        holder.author.text=news.author
         val s =
             "<b>" + news.author.toString() + "</b>" + " " + news.data
         holder.data.text = Html.fromHtml(s)
@@ -102,7 +102,7 @@ class NewsListAdapter(
         val n: Int = Singleton.newsList.indexOf(news)
         news.hearted = false
         news.likeBtn = R.drawable.heart
-        Singleton.newsList.set(n, news)
+        Singleton.newsList[n] = news
         newsList?.set(n, news)
         this.notifyItemChanged(n)
     }

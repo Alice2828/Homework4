@@ -16,7 +16,7 @@ class FragmentLike : Fragment() {
     private lateinit var adapter: LikedListAdapter
     private var listener: LikedListAdapter.ItemClickListener? = null
     private var fragmentLikeListener: LikedListAdapter.FragmentLikeListener? = null
-    var newsList: ArrayList<News>? = null
+    private var newsList: ArrayList<News>? = null
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -26,7 +26,7 @@ class FragmentLike : Fragment() {
         val rootView =
             inflater.inflate(R.layout.fragment_fragment_like, container, false) as ViewGroup
         recyclerView = rootView.findViewById(R.id.recyclerView)
-        recyclerView.layoutManager=LinearLayoutManager(rootView.context)
+        recyclerView.layoutManager = LinearLayoutManager(rootView.context)
         listener = object : LikedListAdapter.ItemClickListener {
             override fun itemClick(position: Int, item: News?) {
                 val intent = Intent(activity, NewsDetailActivity::class.java)
@@ -41,7 +41,7 @@ class FragmentLike : Fragment() {
         }
         newsList = ArrayList()
         adapter = LikedListAdapter(newsList, listener, fragmentLikeListener)
-        recyclerView.setAdapter(adapter)
+        recyclerView.adapter=adapter
         return rootView
     }
 

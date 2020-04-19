@@ -11,6 +11,6 @@ data class News(
     val comment: Int = 0,
     var hearted: Boolean = false
 
-) :Serializable{
+) : Serializable {
     var likeBtn: Int = R.drawable.heart
 }

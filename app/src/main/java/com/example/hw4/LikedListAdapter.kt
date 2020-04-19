@@ -12,8 +12,8 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 
 class LikedListAdapter(
-    var newsList: List<News?>?, var listener: ItemClickListener?,
-    var fragmentLikeListener: FragmentLikeListener?
+    private var newsList: List<News?>?, var listener: ItemClickListener?,
+    private var fragmentLikeListener: FragmentLikeListener?
 ) :
     RecyclerView.Adapter<LikedListAdapter.LikedNewsViewHolder>() {
     @SuppressLint("InflateParams")
@@ -30,7 +30,7 @@ class LikedListAdapter(
 
     override fun onBindViewHolder(holder: LikedNewsViewHolder, position: Int) {
         val news = newsList!![getItemViewType(position)]
-        holder.author.setText(news?.author)
+        holder.author.text=news?.author
         val s =
             "<b>" + news?.author.toString() + "</b>" + " " + news?.author
         holder.data.text = Html.fromHtml(s)

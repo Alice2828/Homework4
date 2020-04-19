@@ -59,7 +59,7 @@ class PageFragment : Fragment() {
         adapter!!.removeLike(news!!)
     }
 
-    fun bindView(rootView:View) {
+    private fun bindView(rootView: View) {
         recyclerView = rootView.findViewById(R.id.recyclerView)
         recyclerView?.layoutManager = LinearLayoutManager(rootView.context)
     }
